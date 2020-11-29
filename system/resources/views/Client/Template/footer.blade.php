@@ -28,7 +28,7 @@
               </a>
             </li>
           </ul>
-          <p class="copyright text-muted">Copyright &copy; Your Website 2020</p>
+          <p class="copyright text-muted">Copyright &copy; Muhammad Amrin Mukhodas</p>
         </div>
       </div>
     </div>

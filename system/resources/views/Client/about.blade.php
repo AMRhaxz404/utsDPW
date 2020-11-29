@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title> GO - Blog </title>
+  <title> Campuran Gaje </title>
 
   <!-- Bootstrap core CSS -->
   @include('Client.Template.css')
